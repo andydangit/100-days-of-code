@@ -14,7 +14,11 @@ Angela YU Web Development
 1-20
 
 Code Combat {https://codecombat.com/play/dungeon }
--   Started on Level 16 and made it all the way through level ??? 
-`
+-   Started on Level 16 and made it all the way through level 23
+
+1 hour Code Challenge Form Creation 
+- using HTML, CSS, and Javascript
+- replicate as closely as possible from a form image 
+
 
 ### R1D3
