@@ -26,3 +26,6 @@ Code Combat {https://codecombat.com/play/dungeon }
 
 1 hours code challenge 
 -   created a form from the pictrues using html, CSS, and javascript 
+
+CSS display Grid
+-   Watch a 30 minutes video on CSS display grid 
