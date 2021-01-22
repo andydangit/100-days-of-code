@@ -28,4 +28,9 @@ Code Combat {https://codecombat.com/play/dungeon }
 -   created a form from the pictrues using html, CSS, and javascript 
 
 CSS display Grid
--   Watch a 30 minutes video on CSS display grid 
+-   Watch and code 27 minutes video on CSS display Grid
+-   https://www.youtube.com/watch?v=jV8B24rSN5o
+
+Css Display Flex
+-   Watch and code 15 minutes video on CSS display flex
+-   https://www.youtube.com/watch?v=fYq5PXgSsbE
