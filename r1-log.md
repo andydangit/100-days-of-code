@@ -47,3 +47,4 @@ Form # 2
 
 Form # 2
 -   Finish with the form so that it can look closely as the original  
+-   Tried using Font awesome but it did not look right, so had to use an image
