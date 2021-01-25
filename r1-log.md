@@ -48,3 +48,8 @@ Form # 2
 Form # 2
 -   Finish with the form so that it can look closely as the original  
 -   Tried using Font awesome but it did not look right, so had to use an image
+
+### R1D6
+Form # 3
+-   Start on Form 3 challenge 
+-   This challenge involve using flexbox and grid
