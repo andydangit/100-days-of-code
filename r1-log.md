@@ -50,6 +50,14 @@ Form # 2
 -   Tried using Font awesome but it did not look right, so had to use an image
 
 ### R1D6
+1-24
 Form # 3
 -   Start on Form 3 challenge 
 -   This challenge involve using flexbox and grid
+
+### R1D7
+1-27
+Form # 3
+-   Finish Form # 3 Challenge
+-   Install custom font to match with Telsa logo
+-   use flexbox to even the left and right side div
