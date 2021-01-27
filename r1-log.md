@@ -65,6 +65,6 @@ Form # 3
 ### R1D8
 1-28
 Form # 4
--   Started and completed Form 4 Challenge 
+-   Start and completed Form 4 Challenge 
 -   Creating Navbar and Card from CSS
 -   No Bootstrap 
