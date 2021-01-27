@@ -61,3 +61,10 @@ Form # 3
 -   Finish Form # 3 Challenge
 -   Install custom font to match with Telsa logo
 -   use flexbox to even the left and right side div
+
+### R1D8
+1-28
+Form # 4
+-   Started and completed Form 4 Challenge 
+-   Creating Navbar and Card from CSS
+-   No Bootstrap 
