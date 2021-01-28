@@ -68,3 +68,10 @@ Form # 4
 -   Start and completed Form 4 Challenge 
 -   Creating Navbar and Card from CSS
 -   No Bootstrap 
+
+### R1D9
+1-27
+Design # 5
+-   start on Design # 5
+-   must use CSS Grid and flexbox 
+-   Add animations to the design 
