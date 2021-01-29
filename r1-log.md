@@ -75,3 +75,9 @@ Design # 5
 -   start on Design # 5
 -   must use CSS Grid and flexbox 
 -   Add animations to the design 
+
+### R1D10
+1-28
+Disign: Grid 
+-   youtube video on how to design Grid create file for it
+-   https://www.youtube.com/watch?v=CC2HkBZuReY&feature=emb_logo
