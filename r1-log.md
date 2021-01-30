@@ -81,3 +81,9 @@ Design # 5
 Disign: Grid 
 -   youtube video on how to design Grid create file for it
 -   https://www.youtube.com/watch?v=CC2HkBZuReY&feature=emb_logo
+
+### R1D11
+1-29
+Design #5
+- Finish with Desing #5
+- Use display flax / Grid
