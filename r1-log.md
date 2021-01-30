@@ -87,3 +87,9 @@ Disign: Grid
 Design #5
 - Finish with Desing #5
 - Use display flax / Grid
+
+### R1D12
+1-30
+Tutorials
+-   CSS Display Grid Crash Course
+-   https://www.youtube.com/watch?v=jV8B24rSN5o
