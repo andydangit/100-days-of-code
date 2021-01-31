@@ -6,13 +6,11 @@ The log of my #100DaysOfCode challenge. Started on [January 19, Tuesday, 2021].
  
 ### R1D1 
 1-19
-
 Angela YU Web Development 
 -   Continue JS adding Elements and Intermediate Array Techniques 
 
 ### R1D2
 1-20
-
 Code Combat {https://codecombat.com/play/dungeon }
 -   Started on Level 16 and made it all the way through level 23
 
@@ -23,7 +21,6 @@ Code Combat {https://codecombat.com/play/dungeon }
 
 ### R1D3
 1-21
-
 1 hours code challenge 
 -   created a form from the pictrues using html, CSS, and javascript 
 
@@ -37,7 +34,6 @@ Css Display Flex
 
 ### R1D4
 1-22
-
 Form # 2
 -   create another form base on another person work
 -   user a random image that is within the same theme
@@ -93,3 +89,13 @@ Design #5
 Tutorials
 -   CSS Display Grid Crash Course
 -   https://www.youtube.com/watch?v=jV8B24rSN5o
+
+Design #6
+-   Create many landing page 
+-   https://dribbble.com/shots/14318181-Product-Landing-Concept/attachments/5977721?mode=media
+
+### R1D13
+1-31
+Design #6
+-   Page 2 of the design # 6
+
