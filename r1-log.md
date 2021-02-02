@@ -99,3 +99,11 @@ Design #6
 Design #6
 -   Page 2 of the design # 6
 
+### R1D14
+2-1
+Design #6
+-   Modify code for page 1 
+
+Tutorials
+-   practining more display grid style
+
