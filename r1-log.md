@@ -107,3 +107,7 @@ Design #6
 Tutorials
 -   practining more display grid style
 
+### R1D15
+2-2
+Design #6
+-   Work and complete page 3 design 
