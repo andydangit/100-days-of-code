@@ -110,4 +110,12 @@ Tutorials
 ### R1D15
 2-2
 Design #6
--   Work and complete page 3 design 
+-   Work and complete page 3, 4, and 5 design 
+
+### R1D16
+2-3
+Tutorials 
+-   Responsive CSS Grid
+-   https://www.youtube.com/watch?reload=9&v=68O6eOGAGqA
+
+
