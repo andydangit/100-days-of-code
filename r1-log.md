@@ -118,4 +118,9 @@ Tutorials
 -   Responsive CSS Grid
 -   https://www.youtube.com/watch?reload=9&v=68O6eOGAGqA
 
+Design #6
+-   clean up and rework some code on page 1 
 
+Design #1
+-   added Javascript to show alert on button 
+-   learn about Media Queries and implement it. 
