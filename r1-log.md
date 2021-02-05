@@ -124,3 +124,8 @@ Design #6
 Design #1
 -   added Javascript to show alert on button 
 -   learn about Media Queries and implement it. 
+
+### R1D17
+2-4
+JS project
+-   Flip color using JS 
