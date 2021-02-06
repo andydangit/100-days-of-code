@@ -129,3 +129,8 @@ Design #1
 2-4
 JS project
 -   Flip color using JS 
+
+### R1D18
+2-5
+JS Project
+-   Working Flip Color using JS 
