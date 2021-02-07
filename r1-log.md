@@ -139,3 +139,6 @@ JS flip color project
 2-6
 JS Counter project
 -   Created a counter that increase / decrease as well as reset button 
+
+Angela YU Web Development 
+-   Learn and create a forLoop statements
