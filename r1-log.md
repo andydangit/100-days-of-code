@@ -127,10 +127,15 @@ Design #1
 
 ### R1D17
 2-4
-JS project
+JS flip color project
 -   Flip color using JS 
 
 ### R1D18
 2-5
-JS Project
+JS flip color project 
 -   Working Flip Color using JS 
+
+### R1D19
+2-6
+JS Counter project
+-   Created a counter that increase / decrease as well as reset button 
