@@ -142,3 +142,9 @@ JS Counter project
 
 Angela YU Web Development 
 -   Learn and create a forLoop statements
+
+### R1D20
+2-7
+Design 7 
+-   Created the template file 
+-   Html / CSS / JS
