@@ -148,3 +148,8 @@ Angela YU Web Development
 Design 7 
 -   Created the template file 
 -   Html / CSS / JS
+
+### R1D21
+2-8-2021
+Angela Yu Web development   
+-   DOM and how to use it
