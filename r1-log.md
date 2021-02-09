@@ -152,4 +152,5 @@ Design 7
 ### R1D21
 2-8-2021
 Angela Yu Web development   
--   DOM and how to use it
+-   learn querySelector and how to use it
+-   In DOM selector, it must be as a string ""
