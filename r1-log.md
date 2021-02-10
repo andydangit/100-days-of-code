@@ -160,3 +160,8 @@ Angela Yu Web development
 Angela yu Web Development 
 -   Continue with QuerySelector 
 -   classList, setAtribute, toggle
+
+Design 7 
+-   Modify the CSS to match-ish from original desing 
+-   Added more code to index.html 
+-   Added some javascript code 
