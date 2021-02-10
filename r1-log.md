@@ -154,3 +154,9 @@ Design 7
 Angela Yu Web development   
 -   learn querySelector and how to use it
 -   In DOM selector, it must be as a string ""
+
+### R1D22
+2-9-2021
+Angela yu Web Development 
+-   Continue with QuerySelector 
+-   classList, setAtribute, toggle
