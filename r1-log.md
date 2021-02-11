@@ -165,3 +165,10 @@ Design 7
 -   Modify the CSS to match-ish from original desing 
 -   Added more code to index.html 
 -   Added some javascript code 
+
+### R1D23
+2-10-2021
+Design 7 
+-   completed the Design 
+-   JS code is working 
+-   Added comment to line of code in JS
