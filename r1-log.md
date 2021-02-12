@@ -172,3 +172,10 @@ Design 7
 -   completed the Design 
 -   JS code is working 
 -   Added comment to line of code in JS
+
+### R1D24
+2-11-2021
+Exercise List
+-   Created a new Repo for a todo list 
+-   using HTML/CSS/JS
+-   focusing on using Vanilla JS and separating the files 
