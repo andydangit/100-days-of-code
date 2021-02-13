@@ -179,3 +179,11 @@ Exercise List
 -   Created a new Repo for a todo list 
 -   using HTML/CSS/JS
 -   focusing on using Vanilla JS and separating the files 
+
+### R1D25
+2-12-2021
+GitHub
+-   Learn to deploy app from Github
+
+Angela yu Web Development 
+-   Advance Dom passing as function 
