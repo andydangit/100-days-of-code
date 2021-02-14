@@ -187,3 +187,9 @@ GitHub
 
 Angela yu Web Development 
 -   Advance Dom passing as function 
+
+### R1D26
+2-13-2021
+Angela Yu Web Development
+-   Continue with the Web Development tutorial 
+-   Advnace DOM 
