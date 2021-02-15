@@ -196,3 +196,11 @@ Angela Yu Web Development
 
 Udacity
 -   Javascript tutorial 
+
+### R1D27
+2-14-2021
+Drum Kit 
+-   New Repo that create drum sound on key press
+
+Angela Yu Web Development
+-   Continue with the tutorial 
