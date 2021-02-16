@@ -204,3 +204,11 @@ Drum Kit
 
 Angela Yu Web Development
 -   Continue with the tutorial 
+
+### R1D28
+2-15-2021
+Angela Yu Web Development
+-   Switch statment to use in a method function 
+
+Git Hub
+-   upload  Repo to website by using CNAME
