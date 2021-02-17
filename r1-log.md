@@ -212,3 +212,11 @@ Angela Yu Web Development
 
 Git Hub
 -   upload  Repo to website by using CNAME
+
+### R1D29
+2-16-2021
+Drum Kit 
+-   Finish with drum website that play sound on keypress
+
+Angela yu Web Development
+-   Continue with Tutorial 
