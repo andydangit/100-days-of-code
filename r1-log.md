@@ -220,3 +220,12 @@ Drum Kit
 
 Angela yu Web Development
 -   Continue with Tutorial 
+
+### R1D30
+2-17-2021
+Exercise List 
+-   Working on adding new functionality 
+-   Adding the background color change on keypress
+
+Udacity 
+-   Javascipt exercise and tutorial 
