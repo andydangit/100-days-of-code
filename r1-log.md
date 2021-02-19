@@ -229,3 +229,9 @@ Exercise List
 
 Udacity 
 -   Javascipt exercise and tutorial 
+
+### R1D31
+2-18-2021 
+Exercise List 
+-   Create random function that generage background color on keypress
+-   Added keypress fontsize 
