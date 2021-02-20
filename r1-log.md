@@ -244,5 +244,14 @@ Exercise List
 
 Google map API
 -   Learn how to implement Google map api 
--   create new repo for this
+-   create new repo for this project
 -   https://github.com/Pandoragear/googleMapAPI
+
+### R1D33
+2-20-21
+Weather Map API
+-   using openweathermap.org to pull the api data
+-   Created a new repo for this project 
+
+Angela yu Web Development
+-   API - Application Programming interface
