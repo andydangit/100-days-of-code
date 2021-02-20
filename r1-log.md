@@ -235,3 +235,14 @@ Udacity
 Exercise List 
 -   Create random function that generage background color on keypress
 -   Added keypress fontsize 
+
+### R1D32
+2-19-2021
+Exercise List 
+-   Added function for Mac user to change background color and font size
+-   Create comment in code block 
+
+Google map API
+-   Learn how to implement Google map api 
+-   create new repo for this
+-   https://github.com/Pandoragear/googleMapAPI
