@@ -248,10 +248,15 @@ Google map API
 -   https://github.com/Pandoragear/googleMapAPI
 
 ### R1D33
-2-20-21
+2-20-2021
 Weather Map API
 -   using openweathermap.org to pull the api data
 -   Created a new repo for this project 
 
 Angela yu Web Development
 -   API - Application Programming interface
+
+### R1D34
+2-21-2021
+Random Quote Generator 
+-    Created a random quote generator from API 
