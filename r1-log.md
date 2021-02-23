@@ -260,3 +260,8 @@ Angela yu Web Development
 2-21-2021
 Random Quote Generator 
 -    Created a random quote generator from API 
+
+### R1D35
+2-22-2021
+Exercise List
+-   Implement random quote from api and pull the data when the page is refresh  
