@@ -265,3 +265,8 @@ Random Quote Generator
 2-22-2021
 Exercise List
 -   Implement random quote from api and pull the data when the page is refresh  
+
+### R1D36
+2-23-2021
+Exercise List 
+-   Implement mobile responsive design
