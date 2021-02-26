@@ -271,10 +271,13 @@ Exercise List
 Exercise List 
 -   Implement mobile responsive design
 
-###R1D37
+### R1D37
 2-24-2021
 Angela yu Web Development
 -   learn Node / Express / Nodemon
 -   Create calculator app and connect to local server
 
-
+### R1D38
+2-25-2021
+countDownToChristmas
+-   New Repo that will show the day / hours / minutes until Christmas
