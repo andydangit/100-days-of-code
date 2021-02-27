@@ -281,3 +281,9 @@ Angela yu Web Development
 2-25-2021
 countDownToChristmas
 -   New Repo that will show the day / hours / minutes until Christmas
+
+### R1D39
+2-26-2021
+countDownToChristmas 
+-   Continue with the app 
+-   Added future date from day 
