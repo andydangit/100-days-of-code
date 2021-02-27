@@ -287,3 +287,6 @@ countDownToChristmas
 countDownToChristmas 
 -   Continue with the app 
 -   Added future date from day 
+
+Udacity 
+-   Continue with Udacity JS tutorial 
