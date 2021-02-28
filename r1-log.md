@@ -290,3 +290,8 @@ countDownToChristmas
 
 Udacity 
 -   Continue with Udacity JS tutorial 
+
+### R140
+2-27-2021
+countDownToChristmas
+-   calculating the milliSecond to day and show on screen 
