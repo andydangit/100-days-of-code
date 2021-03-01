@@ -291,7 +291,12 @@ countDownToChristmas
 Udacity 
 -   Continue with Udacity JS tutorial 
 
-### R140
+### R1D40
 2-27-2021
 countDownToChristmas
 -   calculating the milliSecond to day and show on screen 
+
+### R1D41
+NbaPlayerStats
+-   New repo that will use api to pull nba player statistics
+
