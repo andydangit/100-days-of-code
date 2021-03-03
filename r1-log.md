@@ -297,6 +297,16 @@ countDownToChristmas
 -   calculating the milliSecond to day and show on screen 
 
 ### R1D41
+2-28-2021
 NbaPlayerStats
 -   New repo that will use api to pull nba player statistics
+
+### R1D42
+3-1-2021
+Did not code this day
+
+### R1D42
+3-2-2021
+NbaPlayerSTats
+-   apply the font end design coding html / css  
 
