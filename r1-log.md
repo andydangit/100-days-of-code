@@ -310,3 +310,8 @@ Did not code this day
 NbaPlayerSTats
 -   apply the font end design coding html / css  
 
+### R1D43
+3-3-2021
+NbaPlayerSTats
+-   Apply code to the search bar so it can create a filter
+
