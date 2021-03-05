@@ -315,3 +315,9 @@ NbaPlayerSTats
 NbaPlayerSTats
 -   Apply code to the search bar so it can create a filter
 
+### R1D43
+3-4-2021
+NbaPlayerStats
+-   fetching api data 
+-   http://data.nba.net/10s/prod/v1/2020/players.json
+-   http://data.nba.net/data/10s/prod/v1/2020/players/1628983_profile.json
