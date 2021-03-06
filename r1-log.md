@@ -321,3 +321,9 @@ NbaPlayerStats
 -   fetching api data 
 -   http://data.nba.net/10s/prod/v1/2020/players.json
 -   http://data.nba.net/data/10s/prod/v1/2020/players/1628983_profile.json
+
+### R1D44
+3-5-20221
+NbaPlayerStats
+-   rewrite fetch function 
+-   gather stats and display on screen 
