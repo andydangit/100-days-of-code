@@ -323,7 +323,13 @@ NbaPlayerStats
 -   http://data.nba.net/data/10s/prod/v1/2020/players/1628983_profile.json
 
 ### R1D44
-3-5-20221
+3-5-2021
 NbaPlayerStats
 -   rewrite fetch function 
 -   gather stats and display on screen 
+
+### R1D45
+3-6-2021
+NbaPlayerStats
+-   Get player ID and implement into fetch as well as new html 
+ 
