@@ -333,3 +333,7 @@ NbaPlayerStats
 NbaPlayerStats
 -   Get player ID and implement into fetch as well as new html 
  
+ ### R1D46
+ 3-7-2021
+ NbaPlayerStats
+ -  Added all player from 2019 to 2020 data to show their stat 
