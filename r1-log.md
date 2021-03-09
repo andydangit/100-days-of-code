@@ -337,3 +337,9 @@ NbaPlayerStats
  3-7-2021
  NbaPlayerStats
  -  Added all player from 2019 to 2020 data to show their stat 
+
+ ### R1D47
+ 3-8-2021
+Modern React with Redux by Stephen Grider
+-   Udemy Course lesson 
+-   https://www.udemy.com/course/react-redux/
