@@ -343,3 +343,9 @@ NbaPlayerStats
 Modern React with Redux by Stephen Grider
 -   Udemy Course lesson 
 -   https://www.udemy.com/course/react-redux/
+
+### R1D48
+3-9-2021
+Modern React with Redux by Stephen Grider
+-   How to build react 
+-   Difference between JSX and JS
