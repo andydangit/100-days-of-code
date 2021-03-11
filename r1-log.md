@@ -349,3 +349,10 @@ Modern React with Redux by Stephen Grider
 Modern React with Redux by Stephen Grider
 -   How to build react 
 -   Difference between JSX and JS
+
+### R1D49
+3-10-2021
+Modern React with Redux by Stephen Grider
+-   Component and props 
+-   learn props.children 
+-    Semantic UI 
