@@ -361,3 +361,8 @@ Modern React with Redux by Stephen Grider
 3-11-2021
 React Design 1
 -   recreate the same first project design by using React 
+
+### R1D51
+3-12-2021
+React Design 1
+-   learning about css and form for react 
