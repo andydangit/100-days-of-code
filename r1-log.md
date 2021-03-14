@@ -366,3 +366,8 @@ React Design 1
 3-12-2021
 React Design 1
 -   learning about css and form for react 
+
+### R1D52
+3-13-2021
+React Design 1
+-   Finalize design to look similar to the first HTML / CSs form 
