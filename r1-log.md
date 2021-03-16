@@ -371,3 +371,13 @@ React Design 1
 3-13-2021
 React Design 1
 -   Finalize design to look similar to the first HTML / CSs form 
+
+### R153
+3-14-2021 
+Miss a today of coding 
+
+## R1D54
+3-15-2021
+Modern React with Redux by Stephen Grider
+-   learn about state { this.state } that re-render if new info is updated
+-   using geo location to pull user Latitude
