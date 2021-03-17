@@ -381,3 +381,9 @@ Miss a today of coding
 Modern React with Redux by Stephen Grider
 -   learn about state { this.state } that re-render if new info is updated
 -   using geo location to pull user Latitude
+
+### R1D55
+3-16-2021
+React Design 2
+-   create new repo { design2 }
+-   This design will incorporate using props and state 
