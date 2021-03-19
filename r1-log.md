@@ -387,3 +387,12 @@ Modern React with Redux by Stephen Grider
 React Design 2
 -   create new repo { design2 }
 -   This design will incorporate using props and state 
+
+### R1D56
+3-17-2021
+Miss day of coding 
+
+### R1D57
+Modern React with Redux by Stephen Grider
+-   learn to pass state as props
+-    Lifecycle Methods
