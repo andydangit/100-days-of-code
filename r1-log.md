@@ -393,6 +393,13 @@ React Design 2
 Miss day of coding 
 
 ### R1D57
+3-18-2021
 Modern React with Redux by Stephen Grider
 -   learn to pass state as props
 -    Lifecycle Methods
+
+### R1D58
+3-20-2021
+Modern React with Redux by Stephen Grider
+-   Ternary Expressions and option 
+-   adding semantic icon 
