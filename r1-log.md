@@ -403,3 +403,9 @@ Modern React with Redux by Stephen Grider
 Modern React with Redux by Stephen Grider
 -   Ternary Expressions and option 
 -   adding semantic icon 
+
+### R1D59
+3-23-2021
+Modern React with Redux by Stephen Grider
+-   Added CSS style to the page
+-   Create a spinner { loading } standby
