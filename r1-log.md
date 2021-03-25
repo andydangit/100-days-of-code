@@ -409,3 +409,9 @@ Modern React with Redux by Stephen Grider
 Modern React with Redux by Stephen Grider
 -   Added CSS style to the page
 -   Create a spinner { loading } standby
+
+### R1D60
+3-24-2021
+Modern React with Redux by Stephen Grider
+-   How to specify default props
+-   learn on how to avoid conditional in Render
